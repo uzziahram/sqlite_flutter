@@ -1,6 +1,7 @@
 # sqlite_course
 
 Crash Course on Sqlite applied in flutter
+
 Singleton and CRUD
 
 ## Getting Started
